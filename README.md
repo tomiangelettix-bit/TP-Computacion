@@ -18,3 +18,7 @@ Incluye:
 - Directorio /www_dir 
 - Directorio /backup_dir 
 - Directorio /var 
+
+## Aclaracion sobre discos
+Van a aparecer 3 discos: /dev/sda, /dev/sdb y /dev/sdc.
+/dev/sdc es el disco correspondiente al tp, en mi VM habia montado un disco de prueba previo al tp (/dev/sdb).
